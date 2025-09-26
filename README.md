@@ -51,6 +51,3 @@ Reach me on [linkedin]www.linkedin.com/in/situ12
 
 
 
-
-- ⚡ Fun fact: ...
--->
