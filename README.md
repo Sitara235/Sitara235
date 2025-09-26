@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**Sitara235/Sitara235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm Sitara
 
-Here are some ideas to get you started:
+🎯 Aspiring Data Analyst | SQL | Excel | Power BI | Python Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+💡 Transitioning from hospitality management to the data analytics field. Passionate about transforming raw data into meaningful insights through dashboards, queries, and reports.
+
+
+---
+
+🛠 Skills & Tools
+
+Data Analysis: SQL, Excel, Power BI
+
+Visualization: Power BI Dashboards, Excel Reports
+
+Programming: Python (learning)
+
+Other: Data Cleaning, Reporting, Business Analytics
+
+
+
+---
+
+📊 Featured Projects
+
+🔹 Credit Card Analysis Dashboard
+Power BI dashboard analyzing customer spending behavior, revenue trends, and credit card usage insights.
+
+🔹 E-commerce Sales Dashboard
+Interactive dashboard showcasing sales performance, product trends, and customer segmentation.
+
+🔹 Insurance Risk & Claim Analysis
+Dashboard highlighting risk categories, claim frequency, and predictive insights for insurance portfolios.
+
+
+---
+
+🌱 Currently Learning
+
+Advanced DAX in Power BI
+
+Python for Data Analysis (Pandas, Matplotlib, Seaborn)
+
+
+
+---
+
+📫 Connect with Me
+Reach me on [linkedin]www.linkedin.com/in/situ12
+
+
+
+
 - ⚡ Fun fact: ...
 -->
